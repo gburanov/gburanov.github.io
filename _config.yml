@@ -5,7 +5,7 @@ locale: en_US
 description: Georgy Buranov's IT blog
 logo: site-logo.png
 search: true
-url: http://gburanov.github.io
+url: https://gburanov.github.io
 
 # Jekyll configuration
 
