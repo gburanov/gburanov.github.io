@@ -4,7 +4,7 @@ title: "NFC Moscow metro tickets analyse"
 modified:
 categories: blog
 excerpt:
-tags: [nfc, reverse engineering, C++]
+tags: [NFC, reverse engineering, C++]
 image:
   feature:
 date: 2010-06-05T15:39:55

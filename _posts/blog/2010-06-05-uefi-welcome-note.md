@@ -4,7 +4,7 @@ title: "UEFI - welcome note"
 modified:
 categories: blog
 excerpt:
-tags: [uefi, bios, C++]
+tags: [UEFI, bios, C++]
 image:
   feature:
 date: 2010-06-05T15:39:55
