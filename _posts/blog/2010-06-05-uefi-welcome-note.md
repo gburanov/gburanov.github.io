@@ -7,7 +7,7 @@ excerpt:
 tags: [uefi, bios, C++]
 image:
   feature:
-date: 2014-06-05T15:39:55-04:00
+date: 2010-06-05T15:39:55
 ---
 # UEFI – welcome note
 
