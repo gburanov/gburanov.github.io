@@ -7,7 +7,7 @@ excerpt:
 tags: [NFC, reverse engineering, C++]
 image:
   feature:
-date: 2010-06-05T15:39:55
+date: 2013-02-05T00:00:00
 ---
 # NFC Moscow metro tickets analyse
 
