@@ -4,7 +4,7 @@ title: "The true downsides of C++"
 modified:
 categories: blog
 excerpt:
-tags: [Zsh, bash]
+tags: [cpp]
 image:
   feature:
 date: 2008-07-14T15:39:55
@@ -62,4 +62,4 @@ Why is that bad? Sometime you code the black-box and don’t see the global resu
 
 But still I understand the great benefits from being the C++ developer. These guys usually understand better different algorithms and  data structures. Moreover, they usually understand the complexity of the new language easier then the other people.
 
-So, to summarize I think that C++ is not very good for the industry nowadays. In web, it is better to take a look at Go, and in embedded world – at Rust. But hire ex-C++ developer is usually a good choice.
+So, to summarise I think that C++ is not very good for the industry nowadays. In web, it is better to take a look at Go, and in embedded world – at Rust. But hire ex-C++ developer is usually a good choice.
