@@ -7,7 +7,7 @@ excerpt:
 tags: [cpp]
 image:
   feature:
-date: 2008-07-14T15:39:55
+date: 2008-07-14T00:00:00
 ---
 # The true downsides of C++
 
