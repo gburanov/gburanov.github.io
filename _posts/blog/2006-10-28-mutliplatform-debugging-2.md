@@ -7,7 +7,7 @@ excerpt:
 tags: [cpp, debugging]
 image:
   feature:
-date: 2008-10-28T00:00:00
+date: 2006-10-28T00:00:00
 ---
 # Multiplatform debugging environment, Part 2 (Linux)
 
