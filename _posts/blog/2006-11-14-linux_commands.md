@@ -11,6 +11,7 @@ date: 2006-11-14T00:00:00
 ---
 
 # Linux commands that help me to create a correct environment for debugging
+
 To begin with, I am rather inexperienced Linux developer. All 4 years of commercial development I have used Windows + Visual Studio only. Building software for many platforms is not common for me. So, I created a list of commands (as well as software) and other hints that help me to debug my software on Linux. When I say Linux, it 75% means Mac Os too.
 
 And yes, I am using Ubuntu 8.10.
